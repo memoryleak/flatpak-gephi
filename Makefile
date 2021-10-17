@@ -8,6 +8,6 @@ install:
 	flatpak-builder --user --install --force-clean build-dir io.github.memoryleak.gephi.yml
 
 run: install
-	flatpak run io.github.memoryleak.gephi
+	flatpak run --devel io.github.memoryleak.gephi
 
 all: build run	
