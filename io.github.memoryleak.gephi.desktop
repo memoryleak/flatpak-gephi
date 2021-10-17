@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=gephi
+Comment=Makes graphs handy
+Exec=io.github.memoryleak.gephi
+Icon=io.github.memoryleak.gephi
+Terminal=false
+Categories=Education;Math;
+StartupNotify=true
